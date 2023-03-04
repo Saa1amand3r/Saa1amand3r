@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Saa1amand3r
 - 👀 I’m interested in Web-development, AI and Games
-- 🌱 I’m currently learning Spring framework
+- 🌱 I’m currently learning PHP and Laravel
 - 📫 How to reach me erik.gerb@gmail.com
 
 <!---
